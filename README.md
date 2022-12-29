@@ -1,10 +1,10 @@
 # 🍾Festa-VIP🍾
 
-- Projeto de estudos básico em JavaScript - HTML - CSS.
+# Projeto de estudos básico em JavaScript - HTML - CSS.
 
-# Somente convidados podem entrar!
+- Somente convidados podem entrar!
 
-# ConvidadosLay = ['Lay', 'Marina', 'Nathy', 'Neto', 'Renato', 'Alfredo', 'Zanon'];
+- ConvidadosLay = ['Lay', 'Marina', 'Nathy', 'Neto', 'Renato', 'Alfredo', 'Zanon'];
 
 # https://lay-rosalauren.github.io/Festa-VIP/
 
